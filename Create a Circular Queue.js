@@ -68,3 +68,7 @@ class CircularQueue {
     // Only change code above this line
   }
 }
+
+let testQueue = new CircularQueue(10);
+
+console.log(testQueue.print());
